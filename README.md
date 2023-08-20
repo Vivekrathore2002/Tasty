@@ -8,16 +8,14 @@ https://tastyhub.netlify.app/
 
 
 
-![Screenshot (7)](https://github.com/pranjal6314/text-number-api/assets/77271332/c68799cd-26f7-428e-a4c1-10feffd24276)
+<img width="960" alt="image" src="https://github.com/Vivekrathore2002/TastyHub/assets/90974587/01151d98-26be-4d05-8c8b-a5c269ef308d">
 
 
 <p align="center">
-  <h1 align="center">API HUB 🔗 </h1>
+  <h1 align="center">TastyHub🔗 </h1>
 
   <p align="center">
-    The API portal
-    <br />
-    <a href="https://github.com/pranjal6314/text-number-api/"><strong>Explore the docs »</strong></a>
+    The API Food Portal
     <br />
     •
     <a href="https://github.com/pranjal6314/text-number-api/issues">Report Bug</a>
@@ -46,98 +44,90 @@ https://tastyhub.netlify.app/
 
 ## 🛡️ Features
 
-The key features of API Hub W include:
-- Rate Limited API routes ⏳
-- Protection of sensitive routes 🔒
-- Google Authentication 🔑
-- A complete API key system to create & revoke user keys 🔑
+The key features of TastyHub include:
+- An Restaurant section where we can find our nearby Restaurants⏳
+- Saving of user's time 🔒
+- Cart to add food items🔑
+- Home section where all the social media handles are attached of the creater 🔑
 
-Additionally, the application boasts a visually appealing UI, thanks to the use of Radix UI Primitives,
-Tailwind CSS, fonts from next/font, and icons from Lucide. The dark mode, 
-powered by next-themes, enhances the user experience further.
-
+Additionally, the application boasts a visually appealing UI, thanks to the use of Tailwind css.
 
 ## 💡 Inspiration
 
-The inspiration behind this project, API Hub, came from the need for a centralized interface that allows users to obtain API keys easily and perform various tasks with different input formats. We wanted to create a platform that provides historical data tracking, triggers, and API invocation counts, empowering users to generate unique results and gain valuable context for their API usage.
+- Culinary Exploration Made Easy.
+- Food Adventures for All
+- Supporting Local Businesses
+- Uncompromised Quality
 
 ## 📌 About the Product
 
-API Hub  is a feature-rich web application built using Next.js, TypeScript, Prisma, and Planetscale. It serves as a centralized portal for managing API keys and provides several essential functionalities to enhance the API usage experience.
+Welcome to TastyHub!
+◉ A deliciously interactive and responsive technologically advanced culinary adventure.
+◉ Utilized Tailwind CSS - A simple and effective method for creating visually enticing user interfaces.
+◉ uses the Swiggy API to provide a large number of dining options.
+◉ Using geolocation the app provides instant access to local restaurants based on the user's current location.
+◉ Custom hooks that enhance code readability, modularity, and maintainability, thereby simplifying development.
+◉ Improved data management with Redux Toolkit guarantees effective state management and consistent data transfer across the whole app.
+◉ Makes use of the OpenWeather API to find dining options based on the user's current location or a user-specified location, ensuring a wide variety of options regardless of where the user may be.
 
 ## 🤔 What it does do?
 
-API Hub  offers the following key features:
+- TastyHub: Your Ultimate Food Delivery Experience
+TastyHub is an innovative food delivery platform designed to cater to your culinary desires in a convenient and personalized way. Here's what it does:
 
-- Rate Limited API routes to control the number of requests made to the API.
-- Protection of sensitive routes to secure critical endpoints from unauthorized access.
-- Google Authentication for users to log in securely using their Google accounts.
-- Typescript for type safety and enhanced code maintainability.
-- A complete API key system to create and revoke user keys for accessing different APIs.
+- User-Friendly Ordering Interface: TastyHub features an intuitive and user-friendly website interface. Browse through a wide range of restaurants, cafes, and eateries with ease. Explore menus, read descriptions, and view images to make informed choices.
 
-The project also leverages Radix UI Primitives, Tailwind CSS, fonts from next/font, and icons from Lucide to ensure a visually appealing and user-friendly interface. It offers a beautiful dark mode powered by next-themes for added convenience.
+- Diverse Culinary Options: TastyHub collaborates with a variety of local restaurants and chefs to offer you an extensive selection of cuisines. From Italian and Asian to American and fusion, you'll find a diverse range of dishes to choose from.
+
+- Loyalty Rewards: TastyHub rewards loyal customers through a loyalty program. Earn points with every order that can be redeemed for discounts, free dishes, and other exciting offers.
+
+- Culinary Content: Immerse yourself in the world of food culture through TastyHub's culinary content. Explore blog posts, articles, and videos that highlight chef interviews, cooking tips, and the stories behind the dishes you love.
+
+- Supporting Local Businesses: TastyHub actively supports local restaurants and eateries, helping them reach a wider audience and thrive in the competitive food industry.
+
+- The project also leverages Radix UI Primitives, Tailwind CSS, fonts from next/font, and icons from Lucide to ensure a visually appealing and user-friendly interface. It offers a beautiful dark mode powered by next-themes for added convenience.
 
 Additionally, various tailwindcss plugins like tailwind-merge, tailwindcss-animate, clsx for conditional classes, and class-variance-authority for handling variants are utilized to streamline the UI development process.
 
 ## ⚒️ How we built it?
 
-### Frontend
-
-The front end of API Hub  is developed using Next.js, a powerful React framework known for its server-side rendering capabilities and excellent developer experience. TypeScript is employed to catch type-related errors early and improve code maintainability.
-
-### Backend
-
-For the backend, we utilized Prisma, an efficient and type-safe ORM (Object-Relational Mapping) tool. Prisma simplifies database interactions and ensures data consistency and security.
-
-### Security
-
-Security is a top priority for API Hub. We have implemented rate limiting on API routes to prevent abuse and protect the server from excessive requests. Sensitive routes are safeguarded to ensure that only authorized users can access critical endpoints. Google Authentication is implemented to provide a secure and seamless login experience.
+TastyHub was developed using a combination of technologies and tools to create a seamless and user-friendly food delivery platform. The core technologies included HTML, CSS, and JavaScript, with React.js playing a key role in building dynamic and interactive user interfaces. The platform utilized the Swiggy API to access restaurant data and ordering functionalities, while the OpenWeather API was integrated to provide weather information for users. Design was managed using Tailwind CSS, ensuring a visually appealing and responsive layout. The development process followed an agile approach, emphasizing collaboration and version control using Git. The result is a platform that seamlessly connects users with a diverse range of culinary options while delivering an intuitive and enjoyable experience.
 
 ## 📚 What we learned
 
-Throughout the development of API Hub, our team gained valuable insights into building complex web applications. We deepened our understanding of Next.js, TypeScript, Prisma, and Planetscale while integrating various UI libraries and tailwindcss plugins to create an aesthetically pleasing and functional interface.
+- Our journey in building TastyHub was a valuable learning experience that enriched our understanding of both technology and user-centric design. Here are some key takeaways from our development process:
+
+- API Integration Mastery: Integrating external APIs, such as Swiggy for restaurant data and OpenWeather for weather updates, taught us the nuances of data synchronization and leveraging external resources to enhance user experience.
+
+- React.js Flexibility: Developing with React.js showcased its versatility in creating dynamic interfaces and real-time updates. We learned how to manage state, handle complex user interactions, and ensure seamless responsiveness across devices.
+
+- User-Centered Design: Designing an intuitive user interface through Tailwind CSS highlighted the significance of user-centered design. We discovered how subtle design choices impact user engagement, navigation, and overall satisfaction.
+
+- Agile Collaboration: Embracing an agile approach to development fostered efficient teamwork and adaptability. Regular stand-up meetings and version control with Git kept us aligned and enabled rapid iterations.
+
+- Customer Empathy: Building TastyHub reinforced the importance of understanding user needs. Personalized recommendations, order tracking, and user-friendly customization options were inspired by catering to our customers' desires.
+
+- Complex Problem Solving: Overcoming challenges, such as managing real-time updates and data synchronization, sharpened our problem-solving skills. We found innovative solutions to ensure a seamless and reliable platform.
+
+- End-to-End Vision: The journey from conceptualization to deployment underscored the value of maintaining a holistic vision. We learned to balance the technical aspects with the platform's overarching purpose of delivering an exceptional food ordering experience.
+
+- In conclusion, the development of TastyHub was not only about creating a platform but also about acquiring new insights, refining skills, and embracing the dynamic interplay between technology and user expectations. Our learnings continue to shape our commitment to delivering excellence in every aspect of the platform.
 
 
 ### Revenue Streams 💰
 
-The project provides opportunities for potential revenue streams, such as offering premium features or subscription plans for advanced API usage or enhanced support.
+TastyHub generates revenue through multiple channels:
 
-
-<!-- GETTING STARTED -->
-## <img src="https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png" width="32" height="32"> Getting Started
-
-To get a local copy up and running follow these simple steps.
-### Prerequisites
-In order to get a copy of the project you will require you to have Node.js (v14+) and the NPM package manager installed. If you don't have it, you can download the latest version of Node.js from the [official website](https://nodejs.org/en/download/) which also installs the NPM package manager by default.
-### 📥 Clone the repository:
-1. Open the terminal in the folder in which you wish to clone the repository and enter the following command:
-``` 
-git clone https://github.com/pranjal6314/text-number-api.git
-cd text-number-api
-```
-2. 📦 Install dependencies:
-```
-npm i
-```
-3. ⚙️In order to run :
-```
-npm run dev
-```
-4. 🌐 Open your browser and go to `http://localhost:3000` to access LearnUP.
-## Get Involved 👥
-We welcome contributions from developers and designers Here's how you can get involved:
-1. 👩‍💻 **Developers:** If you're a developer, you can contribute to the growth and enhancement of API Hub W. Whether it's fixing bugs, adding new features, or optimizing performance, your skills are valuable to us. Check out our [Contributor's Guide](CONTRIBUTING.md) for details.
-2. 🎨 **Designers:** You can help improve the visual aspects of the website, ensuring it is intuitive and visually appealing.
-
-
-
-
+- Commission: Charges restaurants a commission on orders placed through our platform.
+- Featured Listings: Restaurants pay for increased visibility.
+- Advertising: Offers targeted promotions for restaurants.
+- Subscriptions: Users subscribe for benefits like free deliveries.
+- Loyalty Program Sponsorships: Local businesses sponsor rewards.
+- Data Insights: Sell restaurant performance insights.
+- Delivery Partnerships: Collaborations with delivery services.
+- Corporate Partnerships: Cater to group orders and events.
+- Merchandising: Sell TastyHub-branded merchandise.
+- Premium Features: Users pay for enhanced experiences.
 
 ## Feedback 💬
-Your feedback is valuable to us! If you encounter any issues or have suggestions for improvement, please [submit an issue](https://github.com/pranjal6314/text-number-api/issues).
-## Acknowledgements
-
-- [Awesome UI Components](https://ui.shadcn.com/)
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Your feedback is valuable to us! If you encounter any issues or have suggestions for improvement, please [submit an issue]([https://github.com/pranjal6314/text-number-api/issues](https://github.com/Vivekrathore2002/TastyHub/issues)).
