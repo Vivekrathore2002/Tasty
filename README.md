@@ -8,9 +8,9 @@
     The API Food Portal
     <br />
     •
-    <a href="https://github.com/pranjal6314/text-number-api/issues">Report Bug</a>
+    <a href="(https://github.com/Vivekrathore2002/TastyHub/issues)">Report Bug</a>
     •
-    <a href="https://github.com/pranjal6314/text-number-api/issues">Request Feature</a>
+    <a href="https://github.com/Vivekrathore2002/TastyHub/issues">Request Feature</a>
     •
   </p>
 </p>
