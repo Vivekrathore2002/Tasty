@@ -18,16 +18,16 @@
 <!-- BADGES -->
 <p align="center">
   <a href="https://github.com/Vivekrathore2002/TastyHub/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/pranjal6314/text-number-api.svg">
+    <img src="https://img.shields.io/github/contributors/vivekrathore2002/TastyHub.svg">
   </a>
   <a href="https://github.com/vivekrathore2002/TastyHub/network/members">
-    <img src="https://img.shields.io/github/forks/pranjal6314/text-number-api">
+    <img src="https://img.shields.io/github/forks/vivekrathore2002/TastyHub">
   </a>  
   <a href="https://github.com/vivekrathore2002/TastyHub/stargazers">
-    <img src="https://img.shields.io/github/stars/pranjal6314/text-number-api">
+    <img src="https://img.shields.io/github/stars/vivekrathore/TastyHub">
   </a>
   <a href="https://github.com/vivekrathore2002/TastyHub/issues">
-    <img src="https://img.shields.io/github/issues/pranjal6314/text-number-api">
+    <img src="https://img.shields.io/github/issues/vivekrathore2002/TastyHub">
   </a>
 </p>
 
