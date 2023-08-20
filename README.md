@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/github/forks/vivekrathore2002/TastyHub">
   </a>  
   <a href="https://github.com/vivekrathore2002/TastyHub/stargazers">
-    <img src="https://img.shields.io/github/stars/vivekrathore/TastyHub">
+    <img src="https://img.shields.io/github/stars/vivekrathore2002/TastyHub">
   </a>
   <a href="https://github.com/vivekrathore2002/TastyHub/issues">
     <img src="https://img.shields.io/github/issues/vivekrathore2002/TastyHub">
