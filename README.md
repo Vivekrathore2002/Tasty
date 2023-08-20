@@ -1,5 +1,4 @@
-<img width="960" alt="image" src="https://github.com/Vivekrathore2002/TastyHub/assets/90974587/01151d98-26be-4d05-8c8b-a5c269ef308d">
-
+<img width="960" alt="image" src="https://github.com/Vivekrathore2002/TastyHub/assets/90974587/8b7dde43-9377-4b35-893d-65cf121b2430">
 
 <p align="center">
   <h1 align="center">TastyHub🔗 </h1>
