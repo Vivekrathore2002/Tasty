@@ -18,16 +18,16 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://github.com/pranjal6314/text-number-api/graphs/contributors">
+  <a href="https://github.com/Vivekrathore2002/TastyHub/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/pranjal6314/text-number-api.svg">
   </a>
-  <a href="https://github.com/pranjal6314/text-number-api/network/members">
+  <a href="https://github.com/vivekrathore2002/TastyHub/network/members">
     <img src="https://img.shields.io/github/forks/pranjal6314/text-number-api">
   </a>  
-  <a href="https://github.com/pranjal6314/text-number-api/stargazers">
+  <a href="https://github.com/vivekrathore2002/TastyHub/stargazers">
     <img src="https://img.shields.io/github/stars/pranjal6314/text-number-api">
   </a>
-  <a href="https://github.com/pranjal6314/text-number-api/issues">
+  <a href="https://github.com/vivekrathore2002/TastyHub/issues">
     <img src="https://img.shields.io/github/issues/pranjal6314/text-number-api">
   </a>
 </p>
